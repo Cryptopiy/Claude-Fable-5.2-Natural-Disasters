@@ -1,0 +1,20 @@
+{
+    "name": "Unity.VisualEffectGraph.EditorTests",
+    "rootNamespace": "MESOCYCLONE.EditorTools",
+    "references": [
+        "Unity.VisualEffectGraph.Editor",
+        "Unity.VisualEffectGraph.Runtime",
+        "Unity.ShaderGraph.Editor",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipelines.Core.Editor"
+    ],
+    "includePlatforms": [ "Editor" ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

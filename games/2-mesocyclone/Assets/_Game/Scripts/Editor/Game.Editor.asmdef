@@ -1,0 +1,27 @@
+{
+    "name": "Game.Editor",
+    "rootNamespace": "MESOCYCLONE.EditorTools",
+    "references": [
+        "Game.Runtime",
+        "Unity.InputSystem",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipelines.Core.Editor",
+        "Unity.RenderPipelines.HighDefinition.Runtime",
+        "Unity.RenderPipelines.HighDefinition.Editor",
+        "Unity.RenderPipelines.HighDefinition.Config.Runtime",
+        "Unity.VisualEffectGraph.Runtime",
+        "Unity.VisualEffectGraph.Editor",
+        "Unity.VisualEffectGraph.EditorTests"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
