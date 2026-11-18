@@ -1,5 +1,7 @@
 # CASCADE
 
+> **Как запустить готовую сборку / How to run the ready-made build:** см. / see [HOW_TO_PLAY.md](../../HOW_TO_PLAY.md) в корне репозитория / in the repository root. Если ниже упоминаются другие файлы запуска — их в этом репозитории нет / if other launch files are mentioned below, they are not part of this repository.
+
 **[Русская версия](README.ru.md)** · [All projects](../../README.md)
 
 A first-person walk through a volcanic catastrophe: from a harbour quay to a white cliff village and its lighthouse while a volcano erupts across the caldera, its flank collapses, the sea draws back and a wall of water crosses the bay. You are an observer; nothing attacks you.

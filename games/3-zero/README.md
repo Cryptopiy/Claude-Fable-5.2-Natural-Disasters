@@ -1,5 +1,7 @@
 # ZERO
 
+> **Как запустить готовую сборку / How to run the ready-made build:** см. / see [HOW_TO_PLAY.md](../../HOW_TO_PLAY.md) в корне репозитория / in the repository root. Если ниже упоминаются другие файлы запуска — их в этом репозитории нет / if other launch files are mentioned below, they are not part of this repository.
+
 **[Русская версия](README.ru.md)** · [All projects](../../README.md)
 
 You are a passenger in the left window seat of an airliner at 11.5 km altitude. A star appears in the daytime sky and remains fixed in the window: it is a 26 km asteroid approaching impact 260 km away. Watch it fall, strike the ground and grow into a planetary-scale explosion until the blast wave reaches the aircraft.
